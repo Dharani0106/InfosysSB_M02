@@ -2,8 +2,8 @@ import mysql.connector
 # MySQL database configuration
 DB_CONFIG = {
     "host": "localhost",
-    "user": "root",
-    "password": "12ab21@DD",
+    "user": "YOUR USERNAME",
+    "password": "YOUR PASSWORD",
     "database": "visiondesk_ai"
 }
   
